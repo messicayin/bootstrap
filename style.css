@@ -9,3 +9,8 @@
     color:white;
     text-align:center;
 }
+
+thead {
+    background-color:black;
+    color:white;
+}
